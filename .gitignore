@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+env/
+build/
+dist/
+*.egg-info/
+
+# Media Files (Video/Audio)
+*.mkv
+*.mp4
+*.wav
+*.m4a
+*.mp3
+*.flac
+*.aac
+
+# Subtitles
+*.srt
+*.ass
+*.ssa
+
+# Project Specific Data Folders
+dubbed_*/
+easygoing/
+Monster But Wild/
+kizoku tensei/
+hell mode/
+Potion, Wagami wo Tasukeru*/
+[Judas]*/
+[EMBER]*/
+[Ironclad]*/
+
+# Logs and Debug
+*.log
+debug_*/
+test_*/
+
+# OS-specific
+.DS_Store
+Thumbs.db

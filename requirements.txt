@@ -1,0 +1,4 @@
+edge-tts
+pysrt
+numpy
+soundfile
